@@ -1,4 +1,4 @@
-# PROJECT DEMO: ระบบประเมินนักศึกษาฝึกงาน (Frontend)
+# PROJECT DEMO:  (Frontend)
 This is a Next.js project bootstrapped with create-next-app.
 
 # Getting Started (Setup & Run)
